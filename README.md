@@ -1,2 +1,2 @@
 # DeepTree
-DeepTree in Pathology Classification (Updating)
+DeepTree in Pathology Classification (The code will be continuously updated)
